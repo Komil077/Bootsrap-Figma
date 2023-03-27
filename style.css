@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.Infrastructure .leftSide h1 {
+    color: #002203;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 64px;
+    width: 593px;
+}
+
+.Infrastructure .leftSide p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    width: 424px;
+}
+
+.Infrastructure {
+    position: relative;
+}
+
+.Infrastructure .rightSide {
+    background-image: url("./img/IMAGE\ 1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 1100px;
+    height: 1200px;
+    z-index: -50;
+    position: absolute;
+    right: 0;
+    top: -90px;
+}
+
+
+.A-Z h2 {
+    color: #002203;
+    font-weight: 400;
+    font-size: 39px;
+    line-height: 40px;
+    width: 651px;
+}
+
+.A-Z .leftSide p {
+    width: 478px;
+}
+.A-Z .rightSide p {
+    width: 477px;
+}
+
+
+.One-powerful .leftSide h2 {
+    color: #002203;
+    width: 536px;
+}
+
+
+.A-single h2 {
+    width: 460px;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 40px;
+}
+
+.A-single .text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    width: 478px;
+}
+
+
+.Join-other .rightSide {
+    column-gap: 20px;
+}
+.Join-other .rightSide .block {
+    background-color: #EFFDD4;
+}
+
+.sarlavha {
+    color: #002203;
+}
+
+.small-imgs {
+    background-color: #E1FDAE;
+}
+
+.Product-update .small-button {
+    background-color: #E1FDAE;
+}
+
+.Ready .rightSide img {
+    width: 700px;
+    height: 800px;
+}
+
+
+.Lead .img-h3-p .small-imgs {
+    width: 50px;
+    height: 50px;
+}
+
+.Lead .img-h3-p .lead-the-transition .title {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    color: #423F35;
+} 
+.Lead .img-h3-p .lead-the-transition .text {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #423F35;
+}
+
+    
+
+
+
+
